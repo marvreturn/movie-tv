@@ -1,4 +1,6 @@
 ---
+date: 2024-06-01
+date: 2024-06-01
 type: series
 title: Brooklyn Nine-Nine
 year: 2013–2021

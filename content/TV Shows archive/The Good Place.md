@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: The Good Place
 year: 2016–2020

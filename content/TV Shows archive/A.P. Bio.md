@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: A.P. Bio
 year: 2018–2021

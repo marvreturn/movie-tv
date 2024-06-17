@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: 2 Broke Girls
 year: 2011–2017

@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Ted Lasso
 year: 2020–2023

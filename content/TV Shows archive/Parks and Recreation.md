@@ -1,4 +1,6 @@
 ---
+date: 2024-06-01
+date: 2024-06-01
 type: series
 title: Parks and Recreation
 year: 2009–2015

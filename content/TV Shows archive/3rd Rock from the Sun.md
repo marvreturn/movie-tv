@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: 3rd Rock from the Sun
 year: 1996–2001

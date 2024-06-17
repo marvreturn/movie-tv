@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Psych
 year: 2006–2014

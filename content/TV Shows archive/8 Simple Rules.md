@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: 8 Simple Rules
 year: 2002–2005

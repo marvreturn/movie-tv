@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: 30 Rock
 year: 2006–2013

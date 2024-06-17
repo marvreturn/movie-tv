@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: 21 Jump Street
 year: 1987–1991
