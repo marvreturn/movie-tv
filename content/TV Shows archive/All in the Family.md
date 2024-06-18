@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: All in the Family
 year: 1971–1979

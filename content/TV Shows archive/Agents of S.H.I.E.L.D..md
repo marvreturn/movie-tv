@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Agents of S.H.I.E.L.D.
 year: 2013–2020

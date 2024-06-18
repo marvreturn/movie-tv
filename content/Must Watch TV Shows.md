@@ -17,9 +17,31 @@ Must Watch [[Comedies]]
 
 
 
-[[The Good Place]]
-![[The Good Place.jpg]]
+
+![[The Good Place]]
 
 
-[[Ted Lasso]]
-![[Ted Lasso.jpg]]
+
+![[Ted Lasso]]
+
+Must Watch [[Drama]]
+![[The Wire]]
+
+
+
+![[The West Wing]]
+
+
+
+![[Killing Eve]]
+
+Must Watch [[ supernatural]]
+![[Stranger Things]]
+
+
+
+![[Supernatural]]
+
+
+
+![[Buffy the Vampire Slayer]]

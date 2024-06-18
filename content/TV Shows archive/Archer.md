@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Archer
 year: 2009–2023

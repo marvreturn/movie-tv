@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Alfred Hitchcock Presents
 year: 1955–1962

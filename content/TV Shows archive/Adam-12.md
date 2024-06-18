@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Adam-12
 year: 1968–1975

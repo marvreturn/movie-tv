@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Airwolf
 year: 1984–1986

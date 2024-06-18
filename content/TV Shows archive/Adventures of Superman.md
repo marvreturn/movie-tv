@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Adventures of Superman
 year: 1952–1958

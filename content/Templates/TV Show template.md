@@ -1,4 +1,5 @@
 ---
+date: {{date}}
 type: {{Type}}
 title: {{Title}}
 year: {{Year}}

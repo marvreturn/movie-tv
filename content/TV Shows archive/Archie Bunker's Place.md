@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Archie Bunker's Place
 year: 1979–1983

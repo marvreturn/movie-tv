@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: ALF
 year: 1986–1990

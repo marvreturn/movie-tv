@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: America's Most Wanted America Fights Back
 year: 1988–2013

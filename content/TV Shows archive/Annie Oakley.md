@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Annie Oakley
 year: 1954–1957

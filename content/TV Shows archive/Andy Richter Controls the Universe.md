@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Andy Richter Controls the Universe
 year: 2002–2003

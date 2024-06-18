@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Ash vs Evil Dead
 year: 2015–2018

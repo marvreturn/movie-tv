@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: As the World Turns
 year: 1956–2010

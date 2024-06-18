@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Arrow
 year: 2012–2020

@@ -1,4 +1,5 @@
 ---
+date: {{date}}
 type: {{Type}}
 country: {{Country}}
 title: {{Title}}

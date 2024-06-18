@@ -1,4 +1,5 @@
 ---
+date: 2024-06-01
 type: series
 title: Arthur
 year: 1996–2022
